@@ -21,7 +21,9 @@
 title: jayavardhan reddy
 email: ramasani@live.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a blog by Jayavardhan Reddy. Meta Tags: jramasani jay ramasani jayramasani jayavardhan reddy ramasani
+  This is a blog by Jayavardhan Reddy. I write about software, photography, music, movies, and life in general. 
+  
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://jramasani.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 

@@ -6,7 +6,7 @@ permalink: /about/
 jay reddy. about ten years of writing software, mostly for systems that have to stay up.
 
 **singapore pools** (2022 - now)<br/>
-head of platform engineering since 2026, section head before that. i look after the betting website and apps, kong api gateway, keycloak login, and openshift on aws. mostly i try to make releases boring and incidents short.
+section head of platform engineering since 2026. before that, section head of the digital factory: same team, different job. i look after the betting website and apps, kong api gateway, keycloak login, and openshift on aws. mostly i try to make releases boring and incidents short.
 
 **ibm, at dbs bank** (2019 - 2022)<br/>
 development lead on investments across six markets. worked on dbs mobile's micro-frontend setup, a faster digibank login, and moving the bank's domains from akamai to cloudflare.

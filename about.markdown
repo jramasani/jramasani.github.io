@@ -6,7 +6,7 @@ permalink: /about/
 jay reddy. about ten years of writing software, mostly for systems that have to stay up.
 
 **singapore pools** (2022 - now)<br/>
-section head of platform engineering since 2026. before that, section head of the digital factory: same team, different job. i led the mobile app, and these days i look after the platforms behind the website and apps. mostly i try to make releases boring and incidents short. production incidents went down by about two thirds, and we fix the ones left in half the time.
+section head of platform engineering since 2026. before that, section head of the digital factory. same people, new hats. i led the mobile app, and these days i look after the platforms behind the website and apps. mostly i try to make releases boring and incidents short. production incidents went down by about two thirds, and we fix the ones left in half the time.
 
 **ibm, at dbs bank** (2019 - 2022)<br/>
 development lead on the investments side of the dbs apps, across six markets.<br/>

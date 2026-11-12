@@ -5,3 +5,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','{{ site.gtm_id }}');</script>
 {% endif %}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a');
+    if (!a) return;
+    gtag('event', 'link_click', {
+      link_text: (a.textContent || '').trim().slice(0, 100),
+      link_url: a.href,
+      page_path: location.pathname
+    });
+  });
+</script>

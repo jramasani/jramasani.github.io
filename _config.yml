@@ -38,8 +38,8 @@ plugins:
 permalink: /:collection/:year-:month-:day-:title:output_ext
 show_excerpts: true
 
-# Analytics (Google Tag Manager, which loads GA4 G-N4ZST3HJE0)
-gtm_id: "GTM-MX9ZMJKF"
+# Google Analytics 4
+ga4_id: "G-N4ZST3HJE0"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

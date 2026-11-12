@@ -38,8 +38,9 @@ plugins:
 permalink: /:collection/:year-:month-:day-:title:output_ext
 show_excerpts: true
 
-# Google Analytics
-google_analytics: UA-218062232-1
+# Analytics: fill in one (or both). Empty = nothing loads.
+ga4_id: ""        # e.g. G-XXXXXXXXXX
+goatcounter: ""   # e.g. jramasani  (from jramasani.goatcounter.com)
 
 # Exclude from processing.
 # The following items will not be processed, by default.

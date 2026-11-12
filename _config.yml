@@ -38,10 +38,8 @@ plugins:
 permalink: /:collection/:year-:month-:day-:title:output_ext
 show_excerpts: true
 
-# Analytics: fill in one (or both). Empty = nothing loads.
+# Analytics (Google Tag Manager, which loads GA4 G-N4ZST3HJE0)
 gtm_id: "GTM-MX9ZMJKF"
-ga4_id: ""        # e.g. G-XXXXXXXXXX
-goatcounter: ""   # e.g. jramasani  (from jramasani.goatcounter.com)
 
 # Exclude from processing.
 # The following items will not be processed, by default.

@@ -39,6 +39,7 @@ permalink: /:collection/:year-:month-:day-:title:output_ext
 show_excerpts: true
 
 # Analytics: fill in one (or both). Empty = nothing loads.
+gtm_id: "GTM-MX9ZMJKF"
 ga4_id: ""        # e.g. G-XXXXXXXXXX
 goatcounter: ""   # e.g. jramasani  (from jramasani.goatcounter.com)
 
